@@ -1,5 +1,6 @@
 # Hi, I’m Ajang Aguer
 ### I’m interested in ``Machine learning`` and ``Computer Vision``
+### I'm currently working on a computer vision personal project
 ### I’m continuously learning and experimenting on new things
 ### How and where to find me
 <p>
